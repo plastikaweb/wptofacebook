@@ -4,7 +4,7 @@ Donate link: http://www.plastikaweb.com/
 Tags: facebook, page, social media, connect, publish, share, fb
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 1.0
+Stable tag: 0.0.2
 
 WpToFacebook lets you choose contents (manually or automatically) to be shown in one or more 'tabs' on a Facebook Page
 
