@@ -1,0 +1,187 @@
+.wptofb #keydiv, #contentsdiv, #poststuff {
+    margin-bottom: 20px;
+    clear: both;
+}
+
+.wptofb #titlediv {
+    margin-top: 10px;
+}
+
+.wptofb h5 {
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+.wptofb #canvaspage {
+    clear: both;
+    float: left;
+}
+
+.wptofb #post_title {
+    font-size: 1.7em;
+    line-height: 100%;
+    outline: medium none;
+    padding: 3px 4px;
+}
+
+.wptofb #titlewrap {
+    margin-bottom: 20px;
+}
+
+#contentsdiv select {
+    height: 15em;
+    width: 15em;
+}
+
+#contentsdiv p {
+    clear: both;
+}
+
+.drag_container {
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid black;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+#availablecontent, #selectedcontent {
+    float: left;
+    margin: 5px;
+}
+
+.drag_column {
+    padding: 2px;
+    width: 225px;
+    height: auto;
+    min-height: 225px;
+    border: 1px solid #999;
+}
+
+#selectedcontent .drag_column {
+    border: 1px solid #999;
+}
+
+.highlight-accept {
+    border: 2px dotted #666;
+}
+
+.wptofb label {
+    font-size: 120%;
+}
+
+.submit {
+    clear: left;
+}
+
+#selected li, #available li {
+    padding: 0 0 0 21px;
+    margin: 0 0 2px;
+    background-color: #C3EEF1;
+    height: 1.5em;
+    overflow: hidden;
+}
+
+#selected li {
+    background-color: #36759B;
+    color: #ddd;
+}
+
+.highlight {
+    height: 1.5em;
+    line-height: 1.2em;
+    background: #fff;
+    border: 2px solid #88B0EC;
+}
+
+span.help {
+    font-size: 11px;
+    color: #666;
+    margin-left: 6px;
+    line-height: 20px;
+}
+
+#draganddrop {
+    width: 40px;
+    height: 200px;
+    float: left;
+    margin: 0 5px;
+    background: url('../images/draganddrop.png') no-repeat 50% 60%;
+}
+
+.wptofb_post {
+    background: url("../images/post.png") no-repeat 2px 1px;
+}
+
+.wptofb_page {
+    background: url("../images/page.png") no-repeat 2px 1px;
+}
+
+.wptofb_other {
+    background: url("../images/other.png") no-repeat 2px 1px;
+}
+
+.wptofb fieldset {
+    border: 1px solid #b8b8b8;
+    padding: 25px;
+    margin: 10px;
+}
+
+.wptofb legend {
+    font-size: 15px;
+    background: #ddd;
+    color: #666;
+    padding: 5px;
+    margin: 0 0 0 -15px;
+    border: 1px solid #999;
+}
+
+.posttypes {
+    padding: 5px 0 5px 5px;
+    margin: 10px;
+}
+
+div.subsec {
+    margin: 0 0 25px;
+}
+
+.column-id {
+    width: 5%;
+}
+
+.wptofb_div_tpl {
+    width: 125px;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
+
+.wptofb_div_tpl img {
+    border: 1px solid #ddd;
+    padding: 4px;
+    margin-top: 3px;
+}
+
+#automatic_fields, #custom_fields {
+    margin: 25px 0 10px;
+}
+
+.hide {
+    display: none;
+}
+
+#automatic_fields ul {
+    margin: 10px 0;
+    float: left;
+    width: 100%;
+}
+
+#taxonomy_ul li {
+    float: left;
+    margin-left: 15px;
+}
+.toggle_editor{
+	margin:5px;
+}

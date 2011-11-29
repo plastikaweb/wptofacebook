@@ -1,0 +1,29 @@
+.content img {
+max-width: 510px;
+height:auto;
+}
+a {
+    color: #BD6448;
+}
+h2 {
+	font-size:150%;
+}
+a:hover {
+    color: #77402e;
+}
+#introtext, #outrotext {
+	background: #eee;
+}
+.content_class{
+	margin-bottom:5px;	
+}
+.content {
+	float:left;
+	width:510px;
+	margin-bottom:5px;
+	background:#FCFCFC;
+	border-bottom:1px solid #e1e3db;
+}
+.fb-like {
+	float: left;
+}
