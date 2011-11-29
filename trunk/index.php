@@ -2,7 +2,7 @@
 /*
  Plugin Name: WpToFacebook
  Version: 1.0
- Description: Choose contents to show in one or more tabs on a Facebook Page
+ Description: Choose contents to be shown in one or more tabs on a Facebook Page
  Author: Carlos Matheu Armengol
  Author URI: http://www.plastikaweb.com
  Plugin URI: http://www.plastikaweb.com/wordpress-to-facebook
