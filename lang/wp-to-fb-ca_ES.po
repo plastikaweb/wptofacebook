@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress To Facebook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-28 12:30+0100\n"
+"PO-Revision-Date: 2011-11-28 12:30+0100\n"
+"Last-Translator: Carlos Matheu <info@plastikaweb.com>\n"
+"Language-Team: plastikaweb <info@plastikaweb.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/delete_page.php:5
+msgid "Security error. Try again."
+msgstr "Error de seguretat. Torna-ho a provar."
+
+#: ../includes/delete_page.php:8
+msgid "Register deleted."
+msgstr "Registre eliminat."
+
+#: ../includes/edit_page.php:25
+msgid "Security error. Try again. "
+msgstr "Error de seguretat. Torna-ho a provar."
+
+#: ../includes/edit_page.php:31
+msgid "Edit Facebook Connection"
+msgstr "Edita la Connexió de Facebook"
+
+#: ../includes/edit_page.php:53
+msgid "New Facebook Connection"
+msgstr "Nova connexió amb Facebook"
+
+#: ../includes/edit_page.php:67
+#: ../includes/edit_page.php:370
+msgid "Publish"
+msgstr ""
+
+#: ../includes/edit_page.php:68
+#: ../includes/edit_page.php:371
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/edit_page.php:78
+#: ../includes/list_page.php:27
+msgid "Title"
+msgstr ""
+
+#: ../includes/edit_page.php:83
+msgid "This is the URL you have to point your facebook app to."
+msgstr "Aquesta és la URL a la que té que apuntar la teva aplicació de Facebook"
+
+#: ../includes/edit_page.php:88
+msgid "Facebook App Id"
+msgstr "Id de l'Aplicació de Facebook"
+
+#: ../includes/edit_page.php:93
+msgid "Facebook App Secret"
+msgstr "Secret de l'Aplicació de Facebook"
+
+#: ../includes/edit_page.php:98
+msgid "Hide contents to no Facebook Fanpage fans"
+msgstr "Amaga continguts a qui no sigui Fan de la teva Pàgina de Facebook"
+
+#: ../includes/edit_page.php:103
+msgid "Choose WP contents to show on Facebook"
+msgstr "Tria els continguts de WP per ensenyar a Facebook"
+
+#: ../includes/edit_page.php:116
+msgid "Automatic contents"
+msgstr "Continguts automàtics"
+
+#: ../includes/edit_page.php:119
+msgid "Choose some criteria to automatically show contents on FB"
+msgstr "Tria algún criteri per ensenyar automàticament continguts en FB"
+
+#: ../includes/edit_page.php:137
+msgid "Taxonomy filter"
+msgstr "Filtre per taxonomia"
+
+#: ../includes/edit_page.php:138
+msgid "Choose some existent terms for filtering by categories and taxonomies. All the contents with any of the selected terms associated, will be shown on FB. Choose a diferent type of content to see the available terms. Pages have no taxonomy associated with them."
+msgstr "Tria alguns termes existents filtrant per categories i taxonomies. Tots els continguts amb algun dels termes seleccionats associats, es mostraran a FB. Tria un tipus de contingut diferent per veure els termes disponibles. \"Pages\" no té cap taxonomia associada."
+
+#: ../includes/edit_page.php:162
+msgid "Number of articles"
+msgstr "Número d'articles"
+
+#: ../includes/edit_page.php:170
+msgid "Order by"
+msgstr "Ordenar per"
+
+#: ../includes/edit_page.php:178
+msgid "Ascendent order"
+msgstr "Ordre ascendent"
+
+#: ../includes/edit_page.php:179
+msgid "Descendent order"
+msgstr "Ordre descendent"
+
+#: ../includes/edit_page.php:201
+msgid "Manual Contents"
+msgstr "Continguts manuals"
+
+#: ../includes/edit_page.php:203
+msgid "Choose exactly what contents and in what order you want to show on FB."
+msgstr "Tria exactament quins continguts i en quin ordre vols que s'ensenyin a FB."
+
+#: ../includes/edit_page.php:206
+msgid "Drag the Available Contents elements to the Selected Contents Area to show them on Facebook. You can also reorder them."
+msgstr "Arrossega els elements de Continguts Disponibles cap a la zona de Continguts Seleccionats per mostrar-los en Facebook. També els pots re-ordenar."
+
+#: ../includes/edit_page.php:224
+msgid "Available Contents"
+msgstr "Continguts disponibles"
+
+#: ../includes/edit_page.php:261
+msgid "No contents available."
+msgstr "Cap contingut és disponible"
+
+#: ../includes/edit_page.php:267
+msgid "Selected Contents"
+msgstr "Continguts seleccionats"
+
+#: ../includes/edit_page.php:307
+msgid "Intro"
+msgstr ""
+
+#: ../includes/edit_page.php:307
+msgid "Optional introduction. Div container id: #introtext."
+msgstr "Introducció opcional. Id del contenidor div: #introtext."
+
+#: ../includes/edit_page.php:322
+msgid "Outro"
+msgstr ""
+
+#: ../includes/edit_page.php:322
+msgid "Optional footer. Div container id: #outrotext."
+msgstr "Peu de pàgina opcional. Id del contenidor div: #outrotext."
+
+#: ../includes/edit_page.php:336
+msgid "No Fans Text"
+msgstr "Text pels qui no són Fans"
+
+#: ../includes/edit_page.php:337
+msgid "Contents to show to non fans on Facebook. Div container id: #nofans."
+msgstr "Continguts per ensenyar als qui no són fans en Facebook. Id del contenidor div: #nofans."
+
+#: ../includes/edit_page.php:352
+msgid "Templates"
+msgstr "Plantilles"
+
+#: ../includes/edit_page.php:352
+msgid "Choose a template in order to show your contents on FB."
+msgstr "Tria una plantilla per ensenyar els continguts a FB."
+
+#: ../includes/list_page.php:7
+msgid "New Facebook App Connection"
+msgstr "Nova Connexió amb l'Aplicació de Facebook"
+
+#: ../includes/list_page.php:23
+msgid "List of Facebook Pages Connections"
+msgstr "Llistat de Connexions a Pàgines de Facebook"
+
+#: ../includes/list_page.php:28
+msgid "Canvas Page"
+msgstr "Pàgina Canvas"
+
+#: ../includes/list_page.php:29
+msgid "Template"
+msgstr "Plantilla"
+
+#: ../includes/list_page.php:30
+msgid "Author"
+msgstr ""
+
+#: ../includes/list_page.php:31
+msgid "Date"
+msgstr ""
+
+#: ../includes/list_page.php:48
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/list_page.php:60
+#, php-format
+msgid "Edit '%s'"
+msgstr "Editar '%s'"
+
+#: ../includes/list_page.php:62
+msgid "Edit this item"
+msgstr ""
+
+#: ../includes/list_page.php:63
+msgid "Edit"
+msgstr ""
+
+#: ../includes/list_page.php:64
+msgid "Delete this item permanently"
+msgstr ""
+
+#: ../includes/list_page.php:65
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../includes/list_page.php:82
+msgid "No records found"
+msgstr "No s'han trobat registres"
+
+#: ../includes/tpl_redirect.php:19
+msgid "No data found"
+msgstr "No hi ha registres"
+
+#: ../includes/Wptofb.php:199
+msgid "New Connection"
+msgstr "Nova Connexió"
+
+#: ../includes/Wptofb.php:434
+msgid "all"
+msgstr "tot"
+
+#: ../includes/Wptofb.php:439
+msgid "date"
+msgstr "data"
+
+#: ../includes/Wptofb.php:439
+msgid "title"
+msgstr "títol"
+
+#: ../includes/Wptofb.php:439
+msgid "random"
+msgstr "aleatori"
+
+#: ../tests/PluginTest.php:39
+#, php-format
+msgid "The %s plugin requires PHP %s or newer. Contact your system administrator about updating your version of PHP."
+msgstr "El plugin %s requereix PHP %s o superior. Contacta amb l'administrador del teu sistema perquè actualitzi la versió de PHP."
+
+#: ../tests/PluginTest.php:54
+#, php-format
+msgid "The %s plugin requires WordPress %s or newer. <a href='http://codex.wordpress.org/Upgrading_WordPress'>Please update!</a>"
+msgstr "El plugin %s requereix WordPress %s o superior. <a href='http://codex.wordpress.org/Upgrading_WordPress'>¡Si us plau, actualitza'l!</a>"
+
+#: ../tests/PluginTest.php:63
+#, php-format
+msgid "The %s plugin requires MySQL %s or newer. Contact your system administrator about upgrading"
+msgstr "El plugin %s requereix MySQL %s o superior. Contacta amb l'administrador del teu sistema per actualitzar-lo."
+
+#~ msgid "Read more"
+#~ msgstr "Llegir més"
