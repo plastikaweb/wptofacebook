@@ -1,0 +1,47 @@
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family:"Lucida Grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    color: #333;
+    overflow: hidden;
+	line-height:1.8em;
+	width:520px;
+	background:#fff;
+}
+
+a {
+	text-decoration:none;
+}
+
+h1 {
+    font-size: 170%;
+    padding: 5px;
+	margin-bottom:5px;
+}
+
+h2 {
+    font-size: 140%;
+	padding:3px;
+}
+
+strong{
+	font-weight:bold;
+}
+.content {
+    padding: 5px;
+}
+#introtext{
+	padding:5px;
+	margin-bottom:5px;
+	float:left;
+	width:510px;
+}
+#outrotext {
+	padding:5px;
+	margin-top:5px;
+    text-align: center;
+    float:left;
+	width:510px;
+}

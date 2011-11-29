@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress To Facebook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-28 12:31+0100\n"
+"PO-Revision-Date: 2011-11-28 12:31+0100\n"
+"Last-Translator: Carlos Matheu <info@plastikaweb.com>\n"
+"Language-Team: plastikaweb <info@plastikaweb.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/delete_page.php:5
+msgid "Security error. Try again."
+msgstr ""
+
+#: ../includes/delete_page.php:8
+msgid "Register deleted."
+msgstr ""
+
+#: ../includes/edit_page.php:25
+msgid "Security error. Try again. "
+msgstr ""
+
+#: ../includes/edit_page.php:31
+msgid "Edit Facebook Connection"
+msgstr ""
+
+#: ../includes/edit_page.php:53
+msgid "New Facebook Connection"
+msgstr ""
+
+#: ../includes/edit_page.php:67
+#: ../includes/edit_page.php:370
+msgid "Publish"
+msgstr ""
+
+#: ../includes/edit_page.php:68
+#: ../includes/edit_page.php:371
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/edit_page.php:78
+#: ../includes/list_page.php:27
+msgid "Title"
+msgstr ""
+
+#: ../includes/edit_page.php:83
+msgid "This is the URL you have to point your facebook app to."
+msgstr ""
+
+#: ../includes/edit_page.php:88
+msgid "Facebook App Id"
+msgstr ""
+
+#: ../includes/edit_page.php:93
+msgid "Facebook App Secret"
+msgstr ""
+
+#: ../includes/edit_page.php:98
+msgid "Hide contents to no Facebook Fanpage fans"
+msgstr ""
+
+#: ../includes/edit_page.php:103
+msgid "Choose WP contents to show on Facebook"
+msgstr ""
+
+#: ../includes/edit_page.php:116
+msgid "Automatic contents"
+msgstr ""
+
+#: ../includes/edit_page.php:119
+msgid "Choose some criteria to automatically show contents on FB"
+msgstr ""
+
+#: ../includes/edit_page.php:137
+msgid "Taxonomy filter"
+msgstr ""
+
+#: ../includes/edit_page.php:138
+msgid "Choose some existent terms for filtering by categories and taxonomies. All the contents with any of the selected terms associated, will be shown on FB. Choose a diferent type of content to see the available terms. Pages have no taxonomy associated with them."
+msgstr ""
+
+#: ../includes/edit_page.php:162
+msgid "Number of articles"
+msgstr ""
+
+#: ../includes/edit_page.php:170
+msgid "Order by"
+msgstr ""
+
+#: ../includes/edit_page.php:178
+msgid "Ascendent order"
+msgstr ""
+
+#: ../includes/edit_page.php:179
+msgid "Descendent order"
+msgstr ""
+
+#: ../includes/edit_page.php:201
+msgid "Manual Contents"
+msgstr ""
+
+#: ../includes/edit_page.php:203
+msgid "Choose exactly what contents and in what order you want to show on FB."
+msgstr ""
+
+#: ../includes/edit_page.php:206
+msgid "Drag the Available Contents elements to the Selected Contents Area to show them on Facebook. You can also reorder them."
+msgstr ""
+
+#: ../includes/edit_page.php:224
+msgid "Available Contents"
+msgstr ""
+
+#: ../includes/edit_page.php:261
+msgid "No contents available."
+msgstr ""
+
+#: ../includes/edit_page.php:267
+msgid "Selected Contents"
+msgstr ""
+
+#: ../includes/edit_page.php:307
+msgid "Intro"
+msgstr ""
+
+#: ../includes/edit_page.php:307
+msgid "Optional introduction. Div container id: #introtext."
+msgstr ""
+
+#: ../includes/edit_page.php:322
+msgid "Outro"
+msgstr ""
+
+#: ../includes/edit_page.php:322
+msgid "Optional footer. Div container id: #outrotext."
+msgstr ""
+
+#: ../includes/edit_page.php:336
+msgid "No Fans Text"
+msgstr ""
+
+#: ../includes/edit_page.php:337
+msgid "Contents to show to non fans on Facebook. Div container id: #nofans."
+msgstr ""
+
+#: ../includes/edit_page.php:352
+msgid "Templates"
+msgstr ""
+
+#: ../includes/edit_page.php:352
+msgid "Choose a template in order to show your contents on FB."
+msgstr ""
+
+#: ../includes/list_page.php:7
+msgid "New Facebook App Connection"
+msgstr ""
+
+#: ../includes/list_page.php:23
+msgid "List of Facebook Pages Connections"
+msgstr ""
+
+#: ../includes/list_page.php:28
+msgid "Canvas Page"
+msgstr ""
+
+#: ../includes/list_page.php:29
+msgid "Template"
+msgstr ""
+
+#: ../includes/list_page.php:30
+msgid "Author"
+msgstr ""
+
+#: ../includes/list_page.php:31
+msgid "Date"
+msgstr ""
+
+#: ../includes/list_page.php:48
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/list_page.php:60
+#, php-format
+msgid "Edit '%s'"
+msgstr ""
+
+#: ../includes/list_page.php:62
+msgid "Edit this item"
+msgstr ""
+
+#: ../includes/list_page.php:63
+msgid "Edit"
+msgstr ""
+
+#: ../includes/list_page.php:64
+msgid "Delete this item permanently"
+msgstr ""
+
+#: ../includes/list_page.php:65
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../includes/list_page.php:82
+msgid "No records found"
+msgstr ""
+
+#: ../includes/tpl_redirect.php:19
+msgid "No data found"
+msgstr ""
+
+#: ../includes/Wptofb.php:199
+msgid "New Connection"
+msgstr ""
+
+#: ../includes/Wptofb.php:434
+msgid "all"
+msgstr ""
+
+#: ../includes/Wptofb.php:439
+msgid "date"
+msgstr ""
+
+#: ../includes/Wptofb.php:439
+msgid "title"
+msgstr ""
+
+#: ../includes/Wptofb.php:439
+msgid "random"
+msgstr ""
+
+#: ../tests/PluginTest.php:39
+#, php-format
+msgid "The %s plugin requires PHP %s or newer. Contact your system administrator about updating your version of PHP."
+msgstr ""
+
+#: ../tests/PluginTest.php:54
+#, php-format
+msgid "The %s plugin requires WordPress %s or newer. <a href='http://codex.wordpress.org/Upgrading_WordPress'>Please update!</a>"
+msgstr ""
+
+#: ../tests/PluginTest.php:63
+#, php-format
+msgid "The %s plugin requires MySQL %s or newer. Contact your system administrator about upgrading"
+msgstr ""
+
